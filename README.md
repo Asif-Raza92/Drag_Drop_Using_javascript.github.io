@@ -3,6 +3,8 @@
 Drag & Drop Feature Using JavaScript
 Welcome to the Drag & Drop Feature Using JavaScript project! 🎉 This simple yet interactive project demonstrates how to create a drag-and-drop interface using HTML, CSS, and JavaScript. You can drag items between two boxes seamlessly and enjoy a clean, user-friendly design.
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 Features
 Drag & Drop Interaction: Move items from the left box to the right and back again.
 Responsive Design: Fully optimized for desktop and mobile screens.
